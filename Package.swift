@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let bnbPackageVersion: Version = "1.10.0-19-gb88228b6f"
+let bnbPackageVersion: Version = "1.10.0-24-gb831098a87"
 
 let package = Package(
     name: "BNBEffectPlayer",
@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BNBEffectPlayer",
-            url: "https://d2cm7wtcqqw29.cloudfront.net/1.10.0-19-gb88228b6f/BNBEffectPlayer.zip",
-            checksum: "5cb0c7d910e6651b5081739798f1b20ab72e0630502bae494545a9715c8115ca"
+            url: "https://d2cm7wtcqqw29.cloudfront.net/1.10.0-24-gb831098a87/BNBEffectPlayer.zip",
+            checksum: "d7466db2128ce6194bc773bd2c779b8117717b38f3c382c69769f5d66bc4b33e"
         ),
     ]
 )
