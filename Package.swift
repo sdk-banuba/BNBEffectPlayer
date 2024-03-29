@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBEffectPlayer",
             url: "None",
-            checksum: "c98d499fec457b915343e3a9e0c51bd6329a042515486475bf1ef7edcb424de7"
+            checksum: "fc52048411addad7ae9371061a495d8bb452735569b1ba4c6d452788c2e07d28"
         ),
     ]
 )
