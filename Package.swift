@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBEffectPlayer",
             url: "https://d2cm7wtcqqw29.cloudfront.net/1.16.3/BNBEffectPlayer.zip",
-            checksum: "93b26149859e00ea4312f2a17d25192ee5242248579e6ce86ba36e9794886c5b"
+            checksum: "7f950b4ed42002743e4b8104d769154276d4e219424c66c6594ce1a0ceb75f46"
         ),
     ]
 )
